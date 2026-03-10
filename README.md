@@ -13,11 +13,11 @@ This repository is compatible with the following models:
 # Arduino example Tools configuration
 ![alt text](<Tools Configuration.png>)
 
-# Notes
+## Notes
 - When using the 03_Playablity example, note that the version of arduino-esp32 must be lower than v3.0.0. If compilation fails, v2.0.9 can be used; this version has been tested and verified so far.
 - When using the 03_Playablity example, remember to copy the libraries in this directory to the user's Arduino library directory.
 
-# 注意事项
+## 注意事项
 - 使用03_Playablity示例，需要注意控制arduino-esp32版本低于v3.0.0，如果出现编译失败，可使用v2.0.9；目前该版本已测试验证
 - 使用03_Playablity示例，记得拷贝该目录下的库到用户arduino库目录下
 
