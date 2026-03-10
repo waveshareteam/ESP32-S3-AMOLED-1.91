@@ -9,3 +9,6 @@ This repository is compatible with the following models:
 * ESP32-S3-Touch-AMOLED-1.91-M
 * ESP32-S3-AMOLED-1.91
 * ESP32-S3-AMOLED-1.91-M
+
+# Arduino example Tools configuration
+![alt text](<Tools Configuration.png>)
